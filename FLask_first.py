@@ -29,5 +29,5 @@ def messages():
     loop.run_until_complete(task)
 
 if __name__ == '__main__':
-    app.run('https://rohansbot.azurewebsites.net')
+    app.run('20.36.106.96')
     #app.run('localhost',3978)
