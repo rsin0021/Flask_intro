@@ -1,0 +1,9 @@
+pip install virtualenv
+virtualenv %Name of virtual environment%
+It is installed now to activate it, run powershell in as administrator
+
+Set-ExecutionPolicy Unrestricted -Force
+.\env\Scripts\activate
+To deactivate the environment
+
+.\env\Scripts\deactivate
